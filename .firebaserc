@@ -1,0 +1,8 @@
+{
+  "projects": { "default": "call-browser-new-project" },
+  "targets": {
+    "hosting": {
+      "call-browser-new-project": { "sites": ["call-browser-new-project"] }
+    }
+  }
+}
